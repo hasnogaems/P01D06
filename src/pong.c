@@ -1,5 +1,9 @@
-//I WANT TO PLAY WITH YOU
-//        YOUR FRIEND, AI
+#include <stdio.h>
+#include "test.c"
 
-
+int main(){
+    int n = 1;
+    printf("%d", plus(n));
+    return 0;
+}
 
